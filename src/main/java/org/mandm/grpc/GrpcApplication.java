@@ -1,4 +1,4 @@
-package org.rmhm.grpc.service;
+package org.mandm.grpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
